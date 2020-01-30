@@ -1,0 +1,17 @@
+#adium-theme-ubuntu==0.3.4
+backports.functools-lru-cache==1.5
+bio==0.1.0
+biopython==1.73
+bs4==0.0.1
+certifi==2018.11.29
+chardet==3.0.4
+idna==2.8
+MySQL-python==1.2.5
+numpy==1.16.1
+
+PyMySQL==0.9.3
+
+requests==2.21.0
+soupsieve==1.8
+#unity-lens-photos==1.0
+urllib3==1.24.1
