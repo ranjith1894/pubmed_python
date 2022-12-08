@@ -3,7 +3,7 @@ backports.functools-lru-cache==1.5
 bio==0.1.0
 biopython==1.73
 bs4==0.0.1
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 idna==2.8
 MySQL-python==1.2.5
